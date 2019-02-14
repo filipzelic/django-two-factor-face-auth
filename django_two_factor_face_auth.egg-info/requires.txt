@@ -1,0 +1,4 @@
+Django>=2.0
+Pillow>=2.0
+face_recognition>=1.2.3
+dlib>=19.7
